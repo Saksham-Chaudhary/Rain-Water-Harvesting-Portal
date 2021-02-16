@@ -1,0 +1,2 @@
+# Rain-Water-Harvesting-Portal
+Our team of members made a portal for facilitating user for registering for rain water harvesting solution. The portal was made using HTML and CSS. Vendors will be providing the best solution according to the area of user and they could also apply for loan or Government subsidy accordingly. All the FRONT END work was done by 3 members including me and also did BACK END work. And this project got nominated for Smart India Hackathon 2020
